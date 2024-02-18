@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>anwar</title>
+    <link rel="stylesheet" href="">
+    <script src=""></script>
+</head>
+<body>
+    <h1>anwar kibra</h1>
+    <label for="">sami</label>
+    <input type="text" placeholder="anwar kibra"><br>
+    <label for="">enjoy :</label>
+    <label for="">molka</label>
+    <input type="radio" name="molka">
+    <label for="">dali</label>
+    <input type="radio"name="molka"><br>
+    <label for="">tel</label>
+    <select name="" >
+    <option value="">molka</option>
+    <option value="">dali</option>
+    </select><br>
+    <label for="">enjoy :</label>
+    <label for="">samiiii</label>
+    <input type="checkbox">
+    <label for="">daliiii</label>
+    <input type="checkbox"><br>
+    <label for="">date</label>
+    <input type="text"id="d" onfocus="f1()">
+</body>
+</html>
